@@ -51,3 +51,9 @@
 最终将标注后的所有视频帧合成为视频文件并导出。
 
 本项目采用传统计算机视觉技术，无需神经网络训练，也不依赖预训练模型权重。
+
+
+CuWRqOaYiui/meS4queMquearuiAl+WtkOi/mOaDs+imgeaIkeeahOa6kOegge+8n+WOu+atu+WQp+aTjeS9oOWmiOeahOmAvOOAguaIkeiHquW3seWKqOiEkeWtkOWGmeeahOS7o+eggeWHreWVpeS7luWmiOeahOe7meS9oO+8nwroh6rlt7HmiYvmrovov5jmmK/ohJHmrovvvJ/pl65BSemDveS4jeS8mu+8n+S9oOaYr+acieWkmuWCu+mAvOWViuOAguWwsei/mei/mOS7luWmiOWcqOS4iua1t+aciOiWquS4ieS4h++8jHdoaWxl5b6q546v6YO95pCe5LiN5piO55m96L+Y5LuW5aaI5aSp5aSp5Zyo6KGN6Iiq6KOF6YC844CC6KOF5q275L2g5Zie44CCCueMquearuiAl+WtkOeugOensOeMquiAl++8jOWAkui/h+adpeW/teaYr+ixqueMqu+8jOe/u+ivkeaIkOaXpeacrOWQjeaYr+aoquiCieaZg+eUn+OAgg==
+
+
+
