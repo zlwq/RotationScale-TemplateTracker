@@ -1,0 +1,2 @@
+# RotationScale-TemplateTracker
+使用角点检测方法而非yolo模型。基于旋转与尺度不变模板匹配的目标跟踪方法，支持关键点定位与目标位置跳变修正。
