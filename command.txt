@@ -1,0 +1,2 @@
+python main.py   --video input.mp4   --target target.jpg   --out result.mp4 --min-scale 0.7   --max-scale 1.5   --scale-step 0.5   --angle-step 15   --score-thresh 0.35   --nms-iou 0.3   --top-k 5   --max-hits-per-template 5   --gray-weight 0.35   --edge-weight 0.65   --smooth   --kp-preview selected_keypoints.jpg   --select-kp   --kp-max-corners 5   --kp-quality 0.1   --kp-min-distance 5   --kp-select-radius 25
+
